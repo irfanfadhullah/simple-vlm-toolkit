@@ -77,4 +77,4 @@ This will launch a local web server. Open the URL provided in your terminal (usu
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is lfree to use.
