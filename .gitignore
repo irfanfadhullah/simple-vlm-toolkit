@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Output directories
+outputs/
+
+# Data files
+data/
+*.jsonl
+*.xlsx
+*.jpg
+*.png
+
+# Environment files
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+#gradio
+.gradio

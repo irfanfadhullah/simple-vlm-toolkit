@@ -1,0 +1,10 @@
+gradio
+transformers
+datasets
+peft
+pandas
+openpyxl
+accelerate
+bitsandbytes
+Pillow
+qwen-vl-utils
